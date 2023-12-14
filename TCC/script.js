@@ -16,6 +16,7 @@ text_el.addEventListener("input", () => {
         error_el.style.display = "none"
         warning_el.style.color="yellow"
         text_el.style.color="yellow"
+        count_el.style.color="yellow"
 
         text_el.addEventListener("input", () => {
             addable_count.textContent = 40 - text_el.value.length })
@@ -26,6 +27,7 @@ text_el.addEventListener("input", () => {
         error_el.style.display = "block"
         error_el.style.color="red"
         text_el.style.color="red"
+        count_el.style.color="red"
 
 
         text_el.addEventListener("input", () => {
