@@ -1,0 +1,24 @@
+Math.random
+ternary operator
+
+
+DOM
+
+querySelector
+querySelectorAll
+getElementById
+
+getElementByClassName
+getElementsByClassName
+events
+
+style
+
+className
+classList
+preventDefault
+
+innerText
+innerHTML
+textContent
+
